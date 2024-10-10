@@ -1,6 +1,13 @@
 # PERSONALIZED VISUAL INSTRUCTION TUNING
 Official Repository of the paper: Personalized Visual Instruct Tuning 
-<img width="1031" alt="image" src="https://github.com/user-attachments/assets/91a21871-cd8c-4beb-b9d5-ce16a6c1cf1a">
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/91a21871-cd8c-4beb-b9d5-ce16a6c1cf1a">
+
+# To Do
+[] Release PVIT-3M dataset [here](https://huggingface.co/datasets/Sterzhang/PVIT-3M).
+
+[] Release scripts for generating PVIT dataset.
+
+[] Release our code for training.
 
 # Introduction
 Recent advancements in multimodal large language models (MLLMs) have demonstrated significant progress; however, these models exhibit a notable limitation,
@@ -19,7 +26,7 @@ difficulty. The experiments demonstrate a substantial personalized performance
 enhancement after fine-tuning with our curated dataset.
 
 # Case Study
-<img width="528" alt="image" src="https://github.com/user-attachments/assets/d50fa03f-fdb6-41ff-ab25-806578d29f3e">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/d50fa03f-fdb6-41ff-ab25-806578d29f3e">
 
 
 # Cite
@@ -35,10 +42,5 @@ Our paper is now available at: [https://arxiv.org/abs/2410.07113](https://arxiv.
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2410.07113}, 
 }
+```
 
-# To Do
-[] Release PVIT-3M dataset [here](https://huggingface.co/datasets/Sterzhang/PVIT-3M).
-
-[] Release scripts for generating PVIT dataset.
-
-[] Release our code for training.
