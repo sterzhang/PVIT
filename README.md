@@ -1,8 +1,8 @@
 # PERSONALIZED VISUAL INSTRUCTION TUNING
 Official Repository of the paper: Personalized Visual Instruct Tuning 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/91a21871-cd8c-4beb-b9d5-ce16a6c1cf1a">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/91a21871-cd8c-4beb-b9d5-ce16a6c1cf1a">
 
-# To Do
+# To Do List
 [] Release PVIT-3M dataset [here](https://huggingface.co/datasets/Sterzhang/PVIT-3M).
 
 [] Release scripts for generating PVIT dataset.
@@ -12,12 +12,12 @@ Official Repository of the paper: Personalized Visual Instruct Tuning
 # Introduction
 Recent advancements in multimodal large language models (MLLMs) have demonstrated significant progress; however, these models exhibit a notable limitation,
 which we refer to as “face blindness”. Specifically, they can engage in general
-conversations but fail to conduct personalized dialogues targeting at specific individuals. This deficiency hinders the application of MLLMs in personalized settings,
+conversations but fail to conduct personalized dialogues targeting at specific individuals. This deficiency hinders the application of MLLMs in personalized settings,
 such as tailored visual assistants on mobile devices, or domestic robots that need
 to recognize members of the family. In this paper, we introduce Personalized
 Visual Instruction Tuning (PVIT), a novel data curation and training framework
 designed to enable MLLMs to identify target individuals within an image and
-engage in personalized and coherent dialogues. Our approach involves the development of a sophisticated pipeline that autonomously generates training data
+engage in personalized and coherent dialogues. Our approach involves the development of a sophisticated pipeline that autonomously generates training data
 containing personalized conversations. This pipeline leverages the capabilities of
 various visual experts, image generation models, and (multi-modal) large language
 models. To evaluate the personalized potential of MLLMs, we present a benchmark
