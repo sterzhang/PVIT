@@ -10,7 +10,7 @@ Official Repository of the paper: Personalized Visual Instruct Tuning
 [] Release our code for training.
 
 # Introduction
-Recent advancements in multimodal large language models (MLLMs) have demonstrated significant progress; however, these models exhibit a notable limitation,
+Recent advancements in multimodal large language models (MLLMs) have demonstrated significant progress; however, these models exhibit a notable limitation,
 which we refer to as “face blindness”. Specifically, they can engage in general
 conversations but fail to conduct personalized dialogues targeting at specific individuals. This deficiency hinders the application of MLLMs in personalized settings,
 such as tailored visual assistants on mobile devices, or domestic robots that need
@@ -29,7 +29,7 @@ enhancement after fine-tuning with our curated dataset.
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/d50fa03f-fdb6-41ff-ab25-806578d29f3e">
 
 
-# Cite
+# Citation
 Our paper is now available at: [https://arxiv.org/abs/2410.07113](https://arxiv.org/abs/2410.07113)
 
 ```bibtex
