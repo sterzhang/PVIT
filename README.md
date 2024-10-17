@@ -2,12 +2,16 @@
 Official Repository of the paper: Personalized Visual Instruct Tuning 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/91a21871-cd8c-4beb-b9d5-ce16a6c1cf1a">
 
+# Update
+- 🚀🚀 PVIT-3M dataset has released in [Huggingface](https://huggingface.co/datasets/Sterzhang/PVIT-3M).
+- Our paper is now available at: [https://arxiv.org/abs/2410.07113](https://arxiv.org/abs/2410.07113).
+
 # To Do List
-[] Release PVIT-3M dataset [here](https://huggingface.co/datasets/Sterzhang/PVIT-3M).
+- [x] Release PVIT-3M dataset [here](https://huggingface.co/datasets/Sterzhang/PVIT-3M).
 
-[] Release scripts for generating PVIT dataset.
+- [ ] Release scripts for generating PVIT dataset.
 
-[] Release our code for training.
+- [ ] Release our code for training.
 
 # Introduction
 Recent advancements in multimodal large language models (MLLMs) have demonstrated significant progress; however, these models exhibit a notable limitation,
@@ -29,11 +33,11 @@ enhancement after fine-tuning with our curated dataset.
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/d50fa03f-fdb6-41ff-ab25-806578d29f3e">
 
 # Dataset Statistic
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/17736122-bc54-40d7-9cbd-86a51d99b4cd">
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/a208273e-e74b-43a2-8f90-7933a4d026e6">
 
 
 # Citation
-Our paper is now available at: [https://arxiv.org/abs/2410.07113](https://arxiv.org/abs/2410.07113)
+If you find our work useful, please cite using this BibTeX:
 
 ```bibtex
 @misc{pi2024personalizedvisualinstructiontuning,
