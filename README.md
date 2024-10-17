@@ -28,6 +28,9 @@ enhancement after fine-tuning with our curated dataset.
 # Case Study
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/d50fa03f-fdb6-41ff-ab25-806578d29f3e">
 
+# Dataset Statistic
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/17736122-bc54-40d7-9cbd-86a51d99b4cd">
+
 
 # Citation
 Our paper is now available at: [https://arxiv.org/abs/2410.07113](https://arxiv.org/abs/2410.07113)
