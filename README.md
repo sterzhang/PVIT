@@ -6,7 +6,7 @@ Official Repository of the paper: Personalized Visual Instruct Tuning
 - 🚀🚀 PVIT-3M dataset has released in [Huggingface](https://huggingface.co/datasets/Sterzhang/PVIT-3M).
 - Our paper is now available at: [https://arxiv.org/abs/2410.07113](https://arxiv.org/abs/2410.07113).
 
-# To Do List
+# To Do List (Full code will be released after the work is accepted.)
 - [x] Release PVIT-3M dataset [here](https://huggingface.co/datasets/Sterzhang/PVIT-3M).
 
 - [ ] Release scripts for generating PVIT dataset.
