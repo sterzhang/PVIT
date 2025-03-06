@@ -3,7 +3,7 @@ Official Repository of the paper: Personalized Visual Instruct Tuning
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/91a21871-cd8c-4beb-b9d5-ce16a6c1cf1a">
 
 # Update
-- Release the training script for training dataset of PVIT-3M.
+- Release the training script ```personalize-llava/scripts/personalization/finetune_task_lora.sh```.
 - PVIT-3M dataset has released in [Huggingface](https://huggingface.co/datasets/Sterzhang/PVIT-3M).
 - Our paper is now available at: [https://arxiv.org/abs/2410.07113](https://arxiv.org/abs/2410.07113).
 
